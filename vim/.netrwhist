@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/d.kirichik/stat/stat/meia/lib/Meia/Catalyst/Core'
+let g:netrw_dirhist_2='/home/d.kirichik/stat/stat/lib/Stat/ChartBuilder'
+let g:netrw_dirhist_3='/home/d.kirichik/village/village_trunk_restore'
+let g:netrw_dirhist_4='/home/d.kirichik/village/village_trunk_restore/lib/Village/XServer/DictLoader'
