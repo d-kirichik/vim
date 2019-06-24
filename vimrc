@@ -1,1 +1,0 @@
-/home/d.kirichik/.vimrc
